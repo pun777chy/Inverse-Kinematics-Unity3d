@@ -12,9 +12,13 @@ It has 3 scenes. 1) Main Menu 2) Infinite Enemies 3) Heli Attack.
 Here are some mjor scripts used in the project
 
 PlayerControl.CS : To control the player AiMing, Player animations, player State (which is Enum) and input controls.
+
 healthSystem.CS :  To handle Health of both enemy and player. Its object is composed in both enemies and player.
+
 EnemyGenerator.CS : This script is used in only Enemy Rushing Scene to generate infinite enemies as long as player is alive.
+
 EnemeyAI.CS : It handles the Enemy animations, Aiming and shooting towards player.
+
 LevelManager.CS : This script is handling the ingame UI panels of Game Complete and Game Over accordingly.
 
 Plugins Used in the Projects
