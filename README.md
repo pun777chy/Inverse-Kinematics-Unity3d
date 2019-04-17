@@ -7,7 +7,7 @@ I took Background images from Internet and rest of UI is Unity3d default button,
 
 It also Mobile touch controls for Mobile build
 
-It has 3 scenes. 1) Main Menu 2) Enemy Rushing 3) enemy Helicopter Attack.
+It has 3 scenes. 1) Main Menu 2) Infinite Enemies 3) Heli Attack.
 
 Here are some mjor scripts used in the project
 
