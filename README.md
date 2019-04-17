@@ -21,7 +21,8 @@ EnemeyAI.CS : It handles the Enemy animations, Aiming and shooting towards playe
 
 LevelManager.CS : This script is handling the ingame UI panels of Game Complete and Game Over accordingly.
 
-Plugins Used in the Projects
+Plugins Used in the Project
+
 RifleAnimsetPro : The animations for player and enemies are taken from this plugin
 Realistic Effects Pack : Effects of Shooting, Blast and muzzle flash are taken from this plugin.
 
