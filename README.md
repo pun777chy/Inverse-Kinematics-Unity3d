@@ -23,7 +23,8 @@ LevelManager.CS : This script is handling the ingame UI panels of Game Complete 
 
 Plugins Used in the Project
 
-RifleAnimsetPro : The animations for player and enemies are taken from this plugin
+RifleAnimsetPro : The animations for player and enemies are taken from this plugin.
+
 Realistic Effects Pack : Effects of Shooting, Blast and muzzle flash are taken from this plugin.
 
 You can adjust the threshold of aiming by adjusting the poistion of cube call "Load" in the scene.
