@@ -34,3 +34,9 @@ I wrote the code as simple as possible.
 The sample is also android Mobile Ready. Android APK is also added in master copy.
 
 I am looking forward if some one has queries.
+
+![48388167_764491510586862_7247939130850541568_n](https://github.com/pun777chy/Inverse-Kinematics-Unity3d/assets/6859320/168e13ce-86a6-4d22-b541-aac65d3e18ea)
+![48387939_360497021182964_421065919251349504_n](https://github.com/pun777chy/Inverse-Kinematics-Unity3d/assets/6859320/88314ad6-f7e5-44da-bbd9-6516d748732b)
+![48366141_2363418663688127_2827516398480130048_n](https://github.com/pun777chy/Inverse-Kinematics-Unity3d/assets/6859320/60ff7b42-b175-4ffd-b63f-e1add80532cc)
+![48397881_1159390594227144_7968135696768565248_n](https://github.com/pun777chy/Inverse-Kinematics-Unity3d/assets/6859320/6e14abf2-005e-467a-b009-84a87787680f)
+
